@@ -1,6 +1,6 @@
-**Document Management System**
+## **Document Management System**
 
-Description
+**Description**  
 This project is a desktop application developed in Delphi, designed to manage different types of documents within a folder hierarchy in an n-tier environment, with database support for storing the folder hierarchy and document metadata, as well as query functionality.
 
 **Features**  
@@ -9,10 +9,9 @@ This project is a desktop application developed in Delphi, designed to manage di
 • Efficient queries on documents and folders.  
 • Advanced search and filter functionality.  
 • End-user friendly interface.  
-• Support for various document types (e.g. PDF, Word, Excel, CSV, etc.).
 
-**Installation**
-Prerequisites  
+**Installation**  
+Prerequisites   
 • Delphi: Delphi 10.x or higher.  
 • Database: SQLite.  
 
@@ -30,13 +29,13 @@ Prerequisites
 3. Use the search functionality to quickly find documents by name, type, or metadata.
 4. Save, edit, or delete documents as needed.
 
-**Contributions**
-If you would like to contribute to the project, please follow these steps:
+**Contributions**  
+   If you would like to contribute to the project, please follow these steps:
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature/new-feature).
 3. Make your changes and commit (git commit -m 'Added new feature').
 4. Push your changes to the branch (git push origin feature/new-feature).
 5. Open a Pull Request to review your changes.
-   
-**License**
+     
+**License**  
 This project is licensed under the MIT License.
